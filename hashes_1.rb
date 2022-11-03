@@ -26,7 +26,7 @@ puts foods.values[1]
 
 # Write code that adds a food to the foods hash. 
 # Then, print the updated hash:
-foods["steaks"] = 2
+foods[:steaks] = 2
 puts foods
 
 
